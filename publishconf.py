@@ -6,7 +6,7 @@ sys.path.append('.')
 from pelicanconf import *
 
 
-SITEURL = 'http://magically.us'
+SITEURL = 'http://fnord0.github.com'
 FEED_DOMAIN = SITEURL
 
 DELETE_OUTPUT_DIRECTORY = True

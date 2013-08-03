@@ -20,7 +20,16 @@ DATE_FORMATS = {
 }
 DEFAULT_PAGINATION = 1
 
-THEME = 'themes/html5-dopetrope'
+THEME = 'themes/bootstrap2'
+## THEMES
+###     <<      means LIKE
+#       <<      means NO LIKE
+#THEME = 'themes/html5-dopetrope'
+###THEME = 'themes/sneakyidea'
+#THEME = 'themes/basic'
+###THEME = 'themes/bluegrasshopper' ### really like the blu/
+##(meh)THEME = 'themes/bold'
+
 
 
 # display items

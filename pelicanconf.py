@@ -24,7 +24,8 @@ THEME = 'themes/html5-dopetrope'
 
 
 # display items
-LOGO_URL = 'https://dl.dropboxusercontent.com/u/7030113/www/art-noveau-ornament.png'
+#LOGO_URL = 'https://dl.dropboxusercontent.com/u/7030113/www/art-noveau-ornament.png'
+LOGO_URL = 'http://farm2.staticflickr.com/1282/4677189993_297a90860c_z.jpg'
 MENUITEMS = (
     ('archives', '/archives.html'),
 )
